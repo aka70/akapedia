@@ -1,7 +1,7 @@
 # WebAPI設計
 
 Web APIのインターフェイスとしてよく使われるものにRESTful APIとGraphQLがある。
-WebAPIといえばRESTがまだまだ一般的でGraphQLは局所的に使用されるという印象ががる。
+WebAPIといえばRESTで設計することが一般的という印象がある。
 
 ## [RESTful API](./RESTfulAPIの設計.md)
 
