@@ -6,7 +6,10 @@ ESLint ではリント対象のファイルと同階層の設定ファイルを�
 
 ## 設定ファイル内でのプラグインの指定方法
 
-eslintのプラグインを`npm i -D`でインストールし、 `.eslintrc.js`の`plugins`に指定する。このときプラグインの名前が`eslint-plugin-*`であればその部分を省略できる。`plugins`に指定しただけではルールは有効にならない。有効にしたい場合は`extends`に適用させるルールを指定する。。
+eslintのプラグインを`npm i -D`でインストールし、 `.eslintrc.js`の`plugins`に指定する。このときプラグインの名前が`eslint-plugin-*`であればその部分を省略できる。`plugins`に指定しただけではルールは有効にならない。有効にしたい場合は`extends`に適用させるルールを指定する。
+
+https://zenn.dev/kimromi/articles/b7cf98005f3193
+
 
 ## 設定例(React + ts)
 
