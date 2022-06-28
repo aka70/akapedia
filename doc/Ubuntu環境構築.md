@@ -29,3 +29,7 @@ bat
 ripgrep
 fd
 exa
+sd
+dog
+tealdeer
+
