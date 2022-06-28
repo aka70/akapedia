@@ -5,5 +5,5 @@
 ```toml
 printWidth = 120
 singleQuote = true
-trailingComma = all
+trailingComma = 'all'
 ```
