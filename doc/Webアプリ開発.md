@@ -20,5 +20,6 @@ OSSは積極的に活用していきたい。うまく扱うことができれ�
 
 ## テストを書く
 
-テストが無いと依存ソフトウェアのアップグレードやリファクタリングを安全に行うことが難しくなっていき、いずれ破綻する。よってテストコードはどのような場合でも書くようにしたい。
+テストが無いと依存ソフトウェアのアップグレードやリファクタリングを安全に行うことが難しくなっていく。
+[質とスピード t-wada](https://speakerdeck.com/twada/quality-and-speed-2020-autumn-edition)
 [JavaScript のユニットテストの書き方](https://zenn.dev/mizchi/articles/my-test-policy)
